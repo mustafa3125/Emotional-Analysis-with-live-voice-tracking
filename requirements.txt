@@ -1,8 +1,5 @@
-streamlit
-openai
-pydub
-SpeechRecognition
-whisper
-torch
-pyttsx3
-joblib
+pandas
+numpy
+scikit-learn
+imblearn
+tensorflow
